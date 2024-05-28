@@ -1,0 +1,30 @@
+div.profile-card {
+    margin:auto;
+    border: 1px solid whitesmoke;
+    padding: 20px;
+    width: 45%;
+    text-align: center;
+}
+
+ul.myHobbies {
+    display: inline-block;
+    text-align: left;
+    color: whitesmoke
+}
+h1,
+h2,
+p {
+    font-size: 14px;
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body {
+background: rgb(63,193,251);
+background: radial-gradient(circle, rgba(63,193,251,1) 0%, rgba(252,70,233,1) 100%);
+background-image: url("miami.webp");
+height: 928px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+ }
+
